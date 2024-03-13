@@ -21,7 +21,7 @@ The Pandemic Simulator is a MATLAB-based tool designed to simulate various 'flat
 
 1. Clone the repository to your local machine:
     ```sh
-    git clone [[https://github.com/yourusername/pandemic-simulator.git]
+    git clone [https://github.com/Amineki6/pandemic-simulator.git]
     ```
 2. Open MATLAB.
 3. Navigate to the cloned project directory.
